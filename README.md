@@ -1,37 +1,38 @@
-<h1>Summer Project 2021: Computational Astrophysics</h1>
+# Summer Project 2021: Computational Astrophysics
 
-<h2> Astronomy Club, SnT Council, IITK </h2>
-<h2>This repository is used for submitting assignments related to project and the files used in it.</h2>
-<h2>Final-Project</h2>
-<ul>
-  <li>final.ipynb</li>
-  <li> Final_Project.pdf</li>
-  <li>Pleiades_Cluster.csv</li>
-  <li> Pleiades_Cluster2.csv </li>
-</ul>
-<h2>WEEK-1</h2>
-<ul>
- <li>Assignment1</li>
- <li>Introduction to Python</li>
- <li>Numpy</li>
-  <li>Pandas</li>
- </ul>
- <h2>WEEK-2</h2>
- <ul>
-  <li>SciPy</li>
-   <li>Astropy</li>
- </ul>
-  <h2> WEEK-3</h2>
-  <ul>
-   <li>Time Series</li> 
-   <li>Fourier Transforms</li>
-    <li>Assignment 2</li>
-   </ul>
-  <h2> WEEK-4</h2>
-    <ul>
-    <li>FITS Handling</li>
-  </ul>
-  <h2>WEEK-5</h2>
-   <ul>
-     <li>Astroquery</li>
-   </ul>
+## Astronomy Club, SnT Council, IITK
+### **This repository is used for submitting assignments related to project and the files used in it.**
+### Final-Project
+
+- final.ipynb
+- Final_Project.pdf
+- [Pleiades_Cluster.csv](https://github.com/sush14feb/astro-project/blob/main/Final%20Project/Pleiades_Cluster.csv)
+- Pleiades_Cluster2.csv 
+- <img src="img.png" alt="drawing" style="width:40px;height:40px"/>
+
+### WEEK-1
+
+- Assignment1
+- Introduction to Python
+- Numpy
+- Pandas
+
+### WEEK-2
+
+- SciPy
+- Astropy
+
+ ### WEEK-3
+
+- Time Series
+- Fourier Transforms
+- Assignment 2
+
+ ### WEEK-4
+
+- FITS Handling
+
+### WEEK-5
+
+  - Astroquery
+
