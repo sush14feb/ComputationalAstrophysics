@@ -8,11 +8,11 @@
 - Final_Project.pdf
 - [Pleiades_Cluster.csv](https://github.com/sush14feb/astro-project/blob/main/Final%20Project/Pleiades_Cluster.csv)
 - Pleiades_Cluster2.csv 
-- <img src="img.png" alt="drawing" style="width:40px;height:40px"/>
+<img src="img.png" alt="drawing" style="width:40px;height:40px"/>
 
 ### WEEK-1
 
-- Assignment1
+- [Assignment1](https://github.com/sush14feb/astro-project/blob/main/Assignment1.ipynb)
 - Introduction to Python
 - Numpy
 - Pandas
