@@ -10,16 +10,22 @@
 - Pleiades_Cluster2.csv 
 <img src="img.png" alt="drawing" style="width:40px;height:40px"/>
 
-
-
-
- ### WEEK-4
-
-- FITS Handling
-
 ### WEEK-5
 
   - Astroquery
+ ### WEEK-4
+
+- FITS Handling
+### WEEK-3(Time Series Analysis)
+
+- Time Series
+- Fourier Transforms
+- [Assignment 2](https://github.com/sush14feb/astro-project/blob/main/Assignment-2.ipynb)
+### WEEK-2(Scipy and Astropy)
+
+- SciPy
+- Astropy
+
 ### WEEK-1(Introduction to Python)
 
 - [Assignment1](https://github.com/sush14feb/astro-project/blob/main/Assignment1.ipynb)
@@ -27,18 +33,4 @@
 - Pandas
 - Matplotlib
 - Python Basics
-### WEEK-2(Scipy and Astropy)
 
-- SciPy
-- Astropy
-- ### WEEK-3(Time Series Analysis)
-
-- Time Series
-- Fourier Transforms
-- [Assignment 2](https://github.com/sush14feb/astro-project/blob/main/Assignment-2.ipynb)
- ### WEEK-4
-
-- FITS Handling
-### WEEK-5
-
-  - Astroquery
