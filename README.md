@@ -26,7 +26,7 @@
 
 - Time Series
 - Fourier Transforms
-- Assignment 2
+- [Assignment 2](https://github.com/sush14feb/astro-project/blob/main/Assignment-2.ipynb)
 
  ### WEEK-4
 
