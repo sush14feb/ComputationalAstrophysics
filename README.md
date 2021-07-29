@@ -5,7 +5,7 @@
 
 ### Final Project (Case Study: Pleiades Star Cluster)
 - final.ipynb
-- Final_Project.pdf
+- [Final_Project.pdf](https://github.com/sush14feb/ComputationalAstrophysics/blob/main/Final%20Project/Final_Project.pdf)
 - [Pleiades_Cluster.csv](https://github.com/sush14feb/astro-project/blob/main/Final%20Project/Pleiades_Cluster.csv)
 - Pleiades_Cluster2.csv 
 
